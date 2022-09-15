@@ -1,0 +1,386 @@
+
+FECHA:  20_APR_2022                                                                                                                         Pag.:  1      de  6
+                                                              U N I V E R S I D A D    D E    P A N A M A
+                                                                        DIRECCION DE INFORMATICA
+
+                                                                ESTADISTICA DE ESTUDIANTES MATRICULADOS
+                                                                               POR SEXO
+                                                                                                                                            rEstSexLin_1
+                                                                 CORRESPONDIENTE AL 1  SEMESTRE 2021
+
+
+
+
+
+
+
+
+
+S  E  D  E         F  A  C  U  L  T  A  D                  E  S  C  U  E  L  A                     C  A  R  R  E  R  A                            Cantidad
+-----------------  --------------------------------------  -------------------------------------   ----------------------------------             --------
+04 VERAGUAS        01 ADMINISTRACION PÚBLICA               01 ADMINISTRACION PUBLICA               04 LIC.ADM. PUBLICA                                  91 Femenino
+                                                                                                                                                        38 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     129
+                                                                                                                                                  --------
+
+                                                           05 TRABAJO SOCIAL.                      01 LIC. TRABAJO SOCIAL.                             152 Femenino
+                                                                                                                                                        23 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     175
+                                                                                                                                                  --------
+
+                   02 CIENCIAS AGROPECUARIAS               02 CIENCIAS PECUARIAS                   04 INGENIERO  AGRONOMO ZOOTECNIST                    51 Femenino
+                                                                                                                                                        63 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     114
+                                                                                                                                                  --------
+
+                                                           06 TECNICOS                             05 TECNICO EN SANIDAD VEGETAL                         7 Femenino
+                                                                                                                                                        11 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      18
+                                                                                                                                                  --------
+
+                   03 ARQUITECTURA Y DISEÑO                01 ARQUITECTURA.                        02 LIC. ARQUITECTURA.                               212 Femenino
+                                                                                                                                                       228 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     440
+                                                                                                                                                  --------
+
+                                                                                                   16 LIC EN REPRESENTACION ARQUITEC                     1 Femenino
+                                                                                                                                                         5 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->       6
+                                                                                                                                                  --------
+
+                   04 CIENCIAS NATURALES, EXACTAS Y TEC.   01 BIOLOGIA.                            03 BIOLOGIA                                          85 Femenino
+                                                                                                                                                        56 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     141
+                                                                                                                                                  --------
+
+                                                                                                   13 BIO ANIMAL P.N                                     1 Femenino
+
+FECHA:  20_APR_2022                                                                                                                         Pag.:  2      de  6
+                                                              U N I V E R S I D A D    D E    P A N A M A
+                                                                        DIRECCION DE INFORMATICA
+
+                                                                ESTADISTICA DE ESTUDIANTES MATRICULADOS
+                                                                               POR SEXO
+                                                                                                                                            rEstSexLin_1
+                                                                 CORRESPONDIENTE AL 1  SEMESTRE 2021
+
+
+
+
+
+
+
+
+
+S  E  D  E         F  A  C  U  L  T  A  D                  E  S  C  U  E  L  A                     C  A  R  R  E  R  A                            Cantidad
+-----------------  --------------------------------------  -------------------------------------   ----------------------------------             --------
+04 VERAGUAS        04 CIENCIAS NATURALES, EXACTAS Y TEC.   01 BIOLOGIA.                            13 BIO ANIMAL P.N                              --------
+                                                                                                                                     Tot Est Car->       1
+                                                                                                                                                  --------
+
+                                                                                                   15 BIO AMBIENTAL P.N                                 14 Femenino
+                                                                                                                                                         3 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      17
+                                                                                                                                                  --------
+
+                                                                                                   18 BIOLOGIA MARINA Y LIMNOLOGIA                      15 Femenino
+                                                                                                                                                         6 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      21
+                                                                                                                                                  --------
+
+                                                                                                   22 ZOOLOGIA                                          13 Femenino
+                                                                                                                                                         8 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      21
+                                                                                                                                                  --------
+
+                                                           06 MATEMATICA                           02 LIC. MATEMATICA                                   30 Femenino
+                                                                                                                                                        43 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      73
+                                                                                                                                                  --------
+
+                   05 DERECHO Y CIENCIAS POLITICAS         01 DERECHO Y CIENCIAS POLITICAS.        01 LIC. DERECHO.                                    162 Femenino
+                                                                                                                                                        81 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     243
+                                                                                                                                                  --------
+
+                   06 HUMANIDADES.                         01 BIBLIOTECOLOGIA                      04 LIC EN BIBLIOTECOLOGIA Y C. DE                    14 Femenino
+                                                                                                                                                         3 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      17
+                                                                                                                                                  --------
+
+                                                                                                   05 TECNICO EN BIBLIOTECAS ESCOLAR                     1 Femenino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->       1
+                                                                                                                                                  --------
+
+                                                           02 EDUCACION FISICA                     01 LIC. EDUCACION FISICA.                            39 Femenino
+
+FECHA:  20_APR_2022                                                                                                                         Pag.:  3      de  6
+                                                              U N I V E R S I D A D    D E    P A N A M A
+                                                                        DIRECCION DE INFORMATICA
+
+                                                                ESTADISTICA DE ESTUDIANTES MATRICULADOS
+                                                                               POR SEXO
+                                                                                                                                            rEstSexLin_1
+                                                                 CORRESPONDIENTE AL 1  SEMESTRE 2021
+
+
+
+
+
+
+
+
+
+S  E  D  E         F  A  C  U  L  T  A  D                  E  S  C  U  E  L  A                     C  A  R  R  E  R  A                            Cantidad
+-----------------  --------------------------------------  -------------------------------------   ----------------------------------             --------
+04 VERAGUAS        06 HUMANIDADES.                         02 EDUCACION FISICA                     01 LIC. EDUCACION FISICA.                           206 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     245
+                                                                                                                                                  --------
+
+                                                           03 ESPANOL.                             01 LIC. ESPAÑOL                                      78 Femenino
+                                                                                                                                                        29 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     107
+                                                                                                                                                  --------
+
+                                                           05 GEOGRAFIA E HISTORIA                 01 LIC. GEO. E HISTORIA                              80 Femenino
+                                                                                                                                                        81 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     161
+                                                                                                                                                  --------
+
+                                                                                                   07 LIC.EN HUMANIDADES ESP.TURISMO                     1 Femenino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->       1
+                                                                                                                                                  --------
+
+                                                                                                   09 LIC HUMAN CON ESP. EN TURISMO                     57 Femenino
+                                                                                                                                                        19 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      76
+                                                                                                                                                  --------
+
+                                                           06 INGLES.                              01 LIC. INGLES.                                     233 Femenino
+                                                                                                                                                       134 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     367
+                                                                                                                                                  --------
+
+                                                                                                   06 TEC EN INGLES CONVERSACIONAL P                    41 Femenino
+                                                                                                                                                        17 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      58
+                                                                                                                                                  --------
+
+                                                           12 ESTUDIOS GENERALES.                  01 EST. GENERALES                                     2 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->       2
+                                                                                                                                                  --------
+
+                   09 ODONTOLOGIA.                         01 ODONTOLOGIA.                         02 TECNICO EN ASISTENCIA  ODONTOL                    29 Femenino
+
+FECHA:  20_APR_2022                                                                                                                         Pag.:  4      de  6
+                                                              U N I V E R S I D A D    D E    P A N A M A
+                                                                        DIRECCION DE INFORMATICA
+
+                                                                ESTADISTICA DE ESTUDIANTES MATRICULADOS
+                                                                               POR SEXO
+                                                                                                                                            rEstSexLin_1
+                                                                 CORRESPONDIENTE AL 1  SEMESTRE 2021
+
+
+
+
+
+
+
+
+
+S  E  D  E         F  A  C  U  L  T  A  D                  E  S  C  U  E  L  A                     C  A  R  R  E  R  A                            Cantidad
+-----------------  --------------------------------------  -------------------------------------   ----------------------------------             --------
+04 VERAGUAS        09 ODONTOLOGIA.                         01 ODONTOLOGIA.                         02 TECNICO EN ASISTENCIA  ODONTOL                    12 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      41
+                                                                                                                                                  --------
+
+                   10 ECONOMIA.                            01 ECONOMIA.                            01 LIC. ECONOMIA.                                    48 Femenino
+                                                                                                                                                        34 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      82
+                                                                                                                                                  --------
+
+                                                           03 FINANZA Y BANCA                      01 LIC. FINANZA Y BANCA                             196 Femenino
+                                                                                                                                                        71 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     267
+                                                                                                                                                  --------
+
+                   11 ADMON. DE EMPRESAS Y CONTABILIDAD    01 CONTABILIDAD.                        01 LIC. CONTABILIDAD                                248 Femenino
+                                                                                                                                                       132 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     380
+                                                                                                                                                  --------
+
+                                                           02 ADMINISTRACION DE EMPRESA.           12 LICENCIATURA EN ADMINISTRACION                   140 Femenino
+                                                                                                                                                       101 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     241
+                                                                                                                                                  --------
+
+                                                                                                   13 LICENCIATURA EN ADMON DE RECUR                    43 Femenino
+                                                                                                                                                        22 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      65
+                                                                                                                                                  --------
+
+                                                                                                   14 LIC EN ING DE OP Y LOGISTICA E                   162 Femenino
+                                                                                                                                                        80 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     242
+                                                                                                                                                  --------
+
+                   12 COMUNICACIÓN SOCIAL                  02 PERIODISMO                           01 LIC. PERIODISMO.                                  11 Femenino
+                                                                                                                                                         4 Masculino
+
+FECHA:  20_APR_2022                                                                                                                         Pag.:  5      de  6
+                                                              U N I V E R S I D A D    D E    P A N A M A
+                                                                        DIRECCION DE INFORMATICA
+
+                                                                ESTADISTICA DE ESTUDIANTES MATRICULADOS
+                                                                               POR SEXO
+                                                                                                                                            rEstSexLin_1
+                                                                 CORRESPONDIENTE AL 1  SEMESTRE 2021
+
+
+
+
+
+
+
+
+
+S  E  D  E         F  A  C  U  L  T  A  D                  E  S  C  U  E  L  A                     C  A  R  R  E  R  A                            Cantidad
+-----------------  --------------------------------------  -------------------------------------   ----------------------------------             --------
+04 VERAGUAS        12 COMUNICACIÓN SOCIAL                  02 PERIODISMO                           01 LIC. PERIODISMO.                            --------
+                                                                                                                                     Tot Est Car->      15
+                                                                                                                                                  --------
+
+                                                           03 COMUNICACIÓN CORPORATIVA             02 LIC EN EVENTOS Y PROTOCOLO COR                    52 Femenino
+                                                                                                                                                        14 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      66
+                                                                                                                                                  --------
+
+                   13 CIENCIAS DE LA EDUCACION             01 FORMACION PEDAGOGICA                 03 PROF. EN EDUCACION.                               53 Femenino
+                                                                                                                                                        13 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      66
+                                                                                                                                                  --------
+
+                                                                                                   11 EDUCACION PRIMARIA                               147 Femenino
+                                                                                                                                                        39 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     186
+                                                                                                                                                  --------
+
+                                                                                                   13 EDUCACION PREESCOLAR                             175 Femenino
+                                                                                                                                                         8 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     183
+                                                                                                                                                  --------
+
+                                                           02 FORMACION PEDAGOGICA DIVERSIFICADA   13 PROF. NIVEL MEDIO                                153 Femenino
+                                                                                                                                                        81 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     234
+                                                                                                                                                  --------
+
+                   14 FARMACIA                             01 FARMACIA.                            01 LIC. EN FARMACIA                                 101 Femenino
+                                                                                                                                                        22 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     123
+                                                                                                                                                  --------
+
+                                                                                                   03 TECNICO EN FARMACIA                               86 Femenino
+                                                                                                                                                        37 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     123
+                                                                                                                                                  --------
+
+FECHA:  20_APR_2022                                                                                                                         Pag.:  6      de  6
+                                                              U N I V E R S I D A D    D E    P A N A M A
+                                                                        DIRECCION DE INFORMATICA
+
+                                                                ESTADISTICA DE ESTUDIANTES MATRICULADOS
+                                                                               POR SEXO
+                                                                                                                                            rEstSexLin_1
+                                                                 CORRESPONDIENTE AL 1  SEMESTRE 2021
+
+
+
+
+
+
+
+
+
+S  E  D  E         F  A  C  U  L  T  A  D                  E  S  C  U  E  L  A                     C  A  R  R  E  R  A                            Cantidad
+-----------------  --------------------------------------  -------------------------------------   ----------------------------------             --------
+04 VERAGUAS        17 ENFERMERIA                           01 ENF (PRE-GRADO).                     02 LIC. CIENCIAS DE ENFERMERIA                      265 Femenino
+                                                                                                                                                        55 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     320
+                                                                                                                                                  --------
+
+                   18 BELLAS ARTES                         01 MUSICA.                              05 LIC. EN B ARTES CON ESPECIALIZ                    18 Femenino
+                                                                                                                                                        73 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      91
+                                                                                                                                                  --------
+
+                   24 INFORMATICA ELECTRONICA Y COMUNIC.   02 INGENIERIA EN INFORMATICA            01 LIC. DE INGENIERIA EN INFORMAT                    20 Femenino
+                                                                                                                                                        72 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      92
+                                                                                                                                                  --------
+
+                                                           03 INFOR PARA LA GEST EDUCATI Y EMPRES  01 TECNICO EN INFORMATICA EDUCATI                    11 Femenino
+                                                                                                                                                        17 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      28
+                                                                                                                                                  --------
+
+                                                                                                   02 LIC. PARA LA GESTION EDUC Y EM                    28 Femenino
+                                                                                                                                                        58 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->      86
+                                                                                                                                                  --------
+
+                   27 PSICOLOGIA                           01 PSICOLOGIA                           01 EN PSICOLOGIA                                    114 Femenino
+                                                                                                                                                        31 Masculino
+                                                                                                                                                  --------
+                                                                                                                                     Tot Est Car->     145
+                                                                                                                                                  --------
+
+
+
+
+                                                                                                                                                  --------
+                                                                                                                     Total  Est  Facultad  ---->     5,510
+                                                                                                                                                  ========
+
