@@ -8,10 +8,8 @@
 <body>
     <style>
         body {
-            background: #F7F8F8;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #ACBB78, #F7F8F8);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #ACBB78, #F7F8F8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+            background: -webkit-linear-gradient(90deg, #112e0f,#112e0f,#165414,#379f3c);
+background: linear-gradient(90deg, #112e0f,#112e0f,#165414,#379f3c);
             /*
             background: #4B79A1;  
 background: -webkit-linear-gradient(to right, #283E51, #4B79A1);  
@@ -28,13 +26,72 @@ background: linear-gradient(to right, #283E51, #4B79A1); */
     
         }
     </style>
-    <p id="prueba"></p>
-    <div id="pdf"></div>
-    <button >click</button>
-    <script src="/js/pdf.js"></script>
-    <script src="/js/pdf2.js"></script>
-    <script src="/js/pdf3.js"></script>
+    <%- include('partial/navigation.html'); -%>
+    <div id="contener" align='center'>
+        
+        <div class="card animated flipInY animate__animated animate__backInUp">
+            <div class=" card-header bg-dark text-white">
+                <h2 class="text-center">ANALISIS DE DATOS</h2><br>
+            </div>
+            <div class="card-body">
+                <div class="mb-3">
+                    <label for="formFileSm" class="form-label">Lista Preliminar de Estudiantes CRUV  </label>
+                    <input class="form-control form-control-sm"type="file" name="listaP" id="listaP">
+                    <div id="doneListaP"></div>
+                </div>
+                
+            </div>
+            <div class="mb-3">
+                <label for="formFileSm" class="form-label">Directorio de Estudiantes Sexo y Turno CRUV </label>
+                <input class="form-control form-control-sm" name="listaD" id="listaD" type="file">
+                <div id="doneListaD"></div>
+              </div>
+              <div class="form-group">
+                <br>
+                <button id="buscar" onclick="location.href='analisis'" class="btn btn-primary">Analizar</button>
+            </div>
+        </div>
 
+</div>
+    </div>
+    <%- include('partial/footer.html'); -%>
+    <script src="/js/js.js"></script>
+    <script src="main.js"></script>
+
+<script>
+    $('#listaD').change(function(e){
+        var file= e.target.files[0]
+        var formData= new FormData();
+        
+        formData.append("myFile1", file)
+        $.ajax({
+            url: "/api/products/file1",
+            type: 'POST',
+            data: formData,
+            processData: false,
+            contentType: false,
+            crossDomain: true
+        }).done(function() {
+            $("#doneListaD").html('Cargado correctamente<i class="bi bi-check-circle-fill"></i>')
+      });
+    })
+    $('#listaP').change(function(e){
+        var file= e.target.files[0]
+        var formData= new FormData();
+        
+        formData.append("myFile2", file)
+        $.ajax({
+            url: "/api/products/file2",
+            type: 'POST',
+            data: formData,
+            processData: false,
+            contentType: false,
+            crossDomain: true
+        }).done(function() {
+            $("#doneListaP").html('Cargado correctamente<i class="bi bi-check-circle-fill"></i>')
+      });
+    })
+</script>
 </body>
 
 </html>
